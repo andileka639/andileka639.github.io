@@ -75,7 +75,7 @@
 	overflow: hidden;
 	display: block;
 	height: 72px;
-	color: #171717;
+	color: #323232;
 	text-align: center;
 	background: #ffffff;
 }
@@ -100,7 +100,7 @@
 	width: 40px;
 	height: 40px;
 	font-size: 20px;
-	color: #171717;
+	color: #323232;
 	line-height: 40px;
 	border-radius: 30px;
 	-moz-border-radius: 30px;
@@ -356,7 +356,7 @@
 .card-started .profile .title {
 	margin: 0 0 10px 0;
 	font-size: 30px;
-	color: #171717;
+	color: #323232;
 	line-height: 32px;
 	font-weight: 400;
 }
@@ -377,7 +377,7 @@
 
 .card-started .profile .social a .ion, .card-started .profile .social a .fab, .card-started .profile .social a .fas {
 	font-size: 16px;
-	color: #171717;
+	color: #323232;
 	transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
@@ -437,7 +437,7 @@
 	overflow: hidden;
 	left: 95%;
 	top: 15px;
-	width: 120%;
+	width: 140%;
 	height: 570px;
 	background: #ffffff;
 	transform-origin: center left;
@@ -554,10 +554,10 @@
 
 .content .title {
 	margin: 0 0 15px 0;
-	padding: 0 0 5px 0;
+	padding: 4px 0 5px 0;
 	position: relative;
 	font-size: 17px;
-	color: #171717;
+	color: #323232;
 	line-height: 21px;
 	font-weight: 500;
 }
@@ -605,7 +605,7 @@
 .info-list ul li strong {
 	display: inline-block;
 	font-size: 13px;
-	color: #171717;
+	color: #323232;
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -664,7 +664,7 @@
 .service-items .service-item .name {
 	margin: 15px 0 10px 0;
 	font-size: 13px;
-	color: #171717;
+	color: #323232;
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -719,7 +719,7 @@
 .pricing-items .pricing-item .name {
 	margin: 0 0 30px 0;
 	font-size: 13px;
-	color: #171717;
+	color: #323232;
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -736,7 +736,7 @@
 	font-size: 42px;
 	line-height: 26px;
 	font-weight: 500;
-	color: #171717;
+	color: #323232;
 }
 
 .pricing-items .pricing-item .amount .dollar,
@@ -748,7 +748,7 @@
 	vertical-align: top;
 	font-size: 17px;
 	font-weight: 400;
-	color: #171717;
+	color: #323232;
 }
 
 .pricing-items .pricing-item .amount .period {
@@ -762,7 +762,7 @@
 .pricing-items .pricing-item .feature-list ul li {
 	padding: 5px 0;
 	font-size: 14px;
-	color: #171717;
+	color: #323232;
 }
 
 .pricing-items .pricing-item .feature-list ul li:last-child {
@@ -780,7 +780,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	font-size: 12px;
-	color: #171717;
+	color: #323232;
 	background: rgba(120, 204, 109, 0.4);
 	font-weight: 300;
 	border-radius: 2px;
@@ -829,7 +829,7 @@
 .fuct-items .fuct-item .name {
 	margin: 0;
 	font-size: 13px;
-	color: #171717;
+	color: #323232;
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -886,7 +886,7 @@
 	margin: 0 0 0 40px;
 	font-size: 13px;
 	line-height: 13px;
-	color: #171717;
+	color: #323232;
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -894,7 +894,8 @@
 /* 5.1 Resume */
 .resume-items .resume-item {
 	position: relative;
-	padding: 20px 0 20px 0;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 .resume-items .resume-item:after {
@@ -942,7 +943,7 @@
 .resume-items .resume-item .name {
 	margin: 0;
 	font-size: 13px;
-	color: #171717;
+	color: #323232;
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -1146,7 +1147,7 @@
 	padding: 0 0 2px 0;
 	display: block;
 	font-size: 13px;
-	color: #171717;
+	color: #323232;
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -1168,7 +1169,7 @@
 	height: 50px;
 	font-size: 11px;
 	line-height: 11px;
-	color: #171717;
+	color: #323232;
 	text-align: center;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -1179,7 +1180,7 @@
 	display: block;
 	font-size: 20px;
 	line-height: 20px;
-	color: #171717;
+	color: #323232;
 	font-weight: 700;
 }
 
@@ -1292,7 +1293,7 @@
 .mfp-wrap.popup-box-inline .mfp-close {
 	top: 0;
 	right: 0;
-	color: #171717;
+	color: #323232;
 }
 
 @media (max-width: 720px) {
