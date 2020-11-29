@@ -595,15 +595,18 @@
 	4. Card - About
 */
 /* 4.1 About */
+.info-list {
+	/*margin-left: 60px;*/
+}
 .info-list ul li {
 	vertical-align: top;
-	display: inline-block;
-	width: 48%;
+	/*display: inline-block;*/
+	/*width: 48%;*/
 	line-height: 1.6;
 }
 
 .info-list ul li strong {
-	display: inline-block;
+	/*display: inline-block;*/
 	font-size: 13px;
 	color: #323232;
 	font-weight: 500;
@@ -891,6 +894,10 @@
 	text-transform: uppercase;
 }
 
+.skills-list {
+	margin-bottom: 20px;
+}
+
 /* 5.1 Resume */
 .resume-items .resume-item {
 	position: relative;
@@ -1088,7 +1095,9 @@
 .box-item .image a img {
 	position: relative;
 	width: 100%;
-	height: auto;
+	height: 200px;
+	/*height: auto;*/
+	object-fit: cover;
 }
 
 .box-item .image .info {
@@ -1158,6 +1167,14 @@
 	color: #999999;
 	font-weight: 300;
 	text-transform: uppercase;
+}
+
+.box-item .desc .keywords {
+	margin: 0;
+	font-size: 11px;
+	color: #999999;
+	font-weight: 300;
+	height: 34px;
 }
 
 .box-item .date {
