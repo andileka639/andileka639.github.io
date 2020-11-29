@@ -437,7 +437,7 @@
 	overflow: hidden;
 	left: 95%;
 	top: 15px;
-	width: 140%;
+	width: 160%;
 	height: 570px;
 	background: #ffffff;
 	transform-origin: center left;
@@ -494,6 +494,13 @@
 	position: relative;
 	overflow-x: hidden;
 	height: 100%;
+}
+
+@media (max-width: 1400px) {
+	.card-inner {
+		width: 100%;
+	}
+
 }
 
 @media (max-width: 1072px) {
